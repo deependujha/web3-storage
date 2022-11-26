@@ -1,0 +1,15 @@
+# run with the command:
+node put-files.js --token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDA1RjI5ODE0NTIyNTZFNWFENmI0MmU1ODUyOEM4MTViNDU2N0E4ZTkiLCJpc3MiOiJ3ZWIzLXN0b3JhZ2UiLCJpYXQiOjE2Njk0NTkzMDU0NDksIm5hbWUiOiJmaXJzdF9maWxlY29pbl9hcGlfdG9rZW4ifQ.RV75oznvCovoTM-pdxKMRezwJeem80qcndCwo2YzsbI ./lamborghini.jpg
+
+
+# ======= # ======= # ======= # ======= # ======= # ======= # ======= # ======= # ======= # ======= # ======= # ======= # 
+
+
+# Output:
+Content added with CID: bafybeianr3badghxjuzwedfpvjzbp3pbmwb6n5miu2yz4lprq5hddedr5u
+
+# ======= # ======= # ======= # ======= # ======= # ======= # ======= # ======= # ======= # ======= # ======= # ======= # 
+
+
+# Image available at:
+https://bafybeianr3badghxjuzwedfpvjzbp3pbmwb6n5miu2yz4lprq5hddedr5u.ipfs.w3s.link/
