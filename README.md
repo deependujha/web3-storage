@@ -36,5 +36,12 @@ https://CID.ipfs.w3s.link/FILENAME.EXTENSION
 
 
 ### Reference:
-Docs: https://web3.storage/docs/intro/
-Examples: https://github.com/web3-storage/web3.storage/tree/main/packages/client/examples
+
+###### Website:
+https://web3.storage/account/
+
+###### Docs:
+https://web3.storage/docs/intro/
+
+###### Examples:
+https://github.com/web3-storage/web3.storage/tree/main/packages/client/examples
